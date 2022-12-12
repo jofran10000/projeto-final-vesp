@@ -7,6 +7,6 @@
     <li>Cadastrar Piloto</li>
     <li>Cadastrar Voo</li>
     <li>Cancelamento</li>
-    
+    <li>Amigos</li>
 </ol>
 
